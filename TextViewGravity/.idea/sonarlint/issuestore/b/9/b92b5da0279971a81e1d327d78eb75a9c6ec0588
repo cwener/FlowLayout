@@ -1,0 +1,6 @@
+
+Ysquid:UnusedPrivateMethod"*Remove this unused private "test1" method.(²â…£ÿÿÿÿÿ8¬³ËŒù+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(áÝ˜ïüÿÿÿÿ8¢üçù+
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž
+Csquid:S1481"'Remove this unused "tp" local variable.(†–¦‚8¢üçù+
+Rsquid:S1854"6Remove this useless assignment to local variable "tp".(†–¦‚8¢üçù+

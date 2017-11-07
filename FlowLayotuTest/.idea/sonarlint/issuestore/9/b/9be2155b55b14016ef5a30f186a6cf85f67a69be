@@ -1,0 +1,7 @@
+
+`squid:S3398"?Move this method into the anonymous class declared at line 123.(®ÆÍµûÿÿÿÿ8Ò†ƒƒø+
+Vsquid:S1068"5Remove this unused "DEFUALT_TOPMARGIN" private field.(ý Åâüÿÿÿÿ8Ö¥Ü‚ø+
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(”¦Üšûÿÿÿÿ8ÖÎÝÿ÷+
+~squid:S1450"]Remove the "mListLabelText" field and declare it as a local variable in the relevant methods.(üåö·úÿÿÿÿ8îñÃÿ÷+
+bsquid:UnusedPrivateMethod"8Remove this unused private "isContainsLabelMode" method.(£Àä‘8¡í‚€ø+
+^squid:S2259"BA "NullPointerException" could be thrown; "mode" is nullable here.(ö«¯³8Ò†ƒƒø+
